@@ -1,7 +1,6 @@
 {
   "name": "algorithms",
   "version": "1.0.0",
-  "main": "dist/server.js",
   "author": "João Pedro <joaopedromoraesnsilva@gmail.com>",
   "repository": "https://github.com/JPedro109/algorithms.git",
   "license": "MIT",
